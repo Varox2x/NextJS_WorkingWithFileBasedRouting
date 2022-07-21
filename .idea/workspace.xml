@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f14367d-c736-418d-80f1-58762636093b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/event-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/event-item.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/event-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/event-list.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/events-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/events-search.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/ui/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/ui/button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/ui/error-alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/events/ui/error-alert.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/layout/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/layout/main-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/components/layout/main-header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/dummy-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/pages/events/[...slug].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/pages/events/[eventId].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/pages/events/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/public/images/colin-watts-6YcKNe4yOwE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/public/images/vitali-adutskevich-1dqbKjM2aZE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_file_based_routing/public/images/vitali-adutskevich-Wusox4-yyJc-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_file_based_routing/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/working_with_file_based_routing/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_file_based_routing/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/working_with_file_based_routing/pages/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/working_with_file_based_routing" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CCau9GSfm1mcoSTlWJSnpi05En" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hubert/WebstormProjects/learn/next_js/4_ProjectTimeWorkingWithFile-basedRouting/working_with_file_based_routing/components/events/ui",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/working_with_file_based_routing/components/events/ui" />
+      <recent name="$PROJECT_DIR$/working_with_file_based_routing/public/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f14367d-c736-418d-80f1-58762636093b" name="Changes" comment="" />
+      <created>1658309240354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658309240354</updated>
+      <workItem from="1658309241654" duration="928000" />
+      <workItem from="1658310243128" duration="4871000" />
+      <workItem from="1658339232484" duration="1162000" />
+      <workItem from="1658348005491" duration="3834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
